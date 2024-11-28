@@ -35,7 +35,6 @@ This project is a demonstration of how **Tailwind CSS** can be used to quickly b
 ## 📚 What I Learned
 
 - **Utility-First Workflow**: Using Tailwind's predefined classes to style elements directly in the HTML.
-- **Responsive Design**: Leveraging Tailwind's responsive utilities to make the page adaptive.
 - **Hover Effects**: Adding interaction to buttons using `hover:` classes.
 
 ---
