@@ -11,6 +11,7 @@ This repository documents my journey of learning **Tailwind CSS**, a utility-fir
 - [Advantages of Tailwind CSS](#advantages-of-tailwind-css)
 - [Disadvantages of Tailwind CSS](#disadvantages-of-tailwind-css)
 - [Getting Started](#getting-started)
+- [Credits](#credits)
 - [Conclusion](#conclusion)
 
 ---
