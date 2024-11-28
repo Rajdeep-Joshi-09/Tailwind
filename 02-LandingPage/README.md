@@ -43,6 +43,6 @@ This project is a demonstration of how **Tailwind CSS** can be used to quickly b
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/RajdeepJoshi/tailwind-demo.git
+   git clone https://github.com/Rajdeep-Joshi-09/tailwind-demo.git
    cd tailwind-demo
    ```
