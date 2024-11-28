@@ -89,6 +89,12 @@ If you're new to Tailwind CSS, check out the **Setup Guide** in this repository 
 
 ---
 
+## Credits
+
+This guide was inspired by the **Tailwind CSS tutorials by Code with Harry**, who simplifies concepts and makes learning enjoyable. Check out his amazing content on [Code with Harry's YouTube channel](https://www.youtube.com/@CodeWithHarry) for more learning resources.
+
+---
+
 ## Conclusion
 
 Tailwind CSS is a powerful tool for web developers who want to build modern, responsive designs efficiently. While it has its drawbacks, its advantages far outweigh them for most projects, especially for teams focused on rapid development and consistency.
