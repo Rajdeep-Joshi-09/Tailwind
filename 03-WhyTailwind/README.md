@@ -1,7 +1,3 @@
-Here’s the enhanced structure based on your requirements:
-
----
-
 ## **What is Tailwind CSS?**
 
 Tailwind CSS is a utility-first CSS framework that provides pre-built utility classes (like `bg-red-500`, `text-center`, `p-4`) for designing directly in HTML. It eliminates the need for writing custom CSS, making development faster, consistent, and efficient.
@@ -81,7 +77,7 @@ Tailwind CSS is a utility-first CSS framework that provides pre-built utility cl
 3. **Generate Tailwind Configuration Files:**
 
    ```bash
-   npx tailwindcss init -p
+   npx tailwindcss init
    ```
 
    This generates two files:

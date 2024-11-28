@@ -11,6 +11,7 @@ This repository documents my journey of learning **Tailwind CSS**, a utility-fir
 - [Advantages of Tailwind CSS](#advantages-of-tailwind-css)
 - [Disadvantages of Tailwind CSS](#disadvantages-of-tailwind-css)
 - [Getting Started](#getting-started)
+- [Credits](#credits)
 - [Conclusion](#conclusion)
 
 ---
@@ -86,6 +87,12 @@ If you're new to Tailwind CSS, check out the **Setup Guide** in this repository 
 
 1. Quickly experiment with Tailwind CSS using the **Play CDN**.
 2. Set up Tailwind CSS for professional projects with **PostCSS** and **Vite**.
+
+---
+
+## Credits
+
+This guide was inspired by the **Tailwind CSS tutorials by Code with Harry**, who simplifies concepts and makes learning enjoyable. Check out his amazing content on [Code with Harry's YouTube channel](https://www.youtube.com/@CodeWithHarry) for more learning resources.
 
 ---
 

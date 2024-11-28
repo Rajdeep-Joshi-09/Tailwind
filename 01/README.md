@@ -2,6 +2,8 @@
 
 This repository provides a comprehensive guide to setting up **Tailwind CSS** for both quick prototyping and production-ready applications.
 
+---
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -123,4 +125,4 @@ For enhanced development efficiency, install the **Tailwind CSS IntelliSense** e
 ## References
 
 - [Official Tailwind CSS Website](https://tailwindcss.com/)
-- [Node.js Official Website](https://nodejs.org/)
+- [Node.js Official Website](https://nodejs.org/) 
