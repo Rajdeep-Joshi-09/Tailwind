@@ -123,14 +123,7 @@ For enhanced development efficiency, install the **Tailwind CSS IntelliSense** e
 
 ---
 
-## Credits
-
-This guide was inspired by the **Tailwind CSS tutorials by Code with Harry**, who simplifies concepts and makes learning enjoyable. Check out his amazing content on [Code with Harry's YouTube channel](https://www.youtube.com/@CodeWithHarry) for more learning resources.
-
----
-
 ## References
 
 - [Official Tailwind CSS Website](https://tailwindcss.com/)
-- [Node.js Official Website](https://nodejs.org/)  
-- [Code with Harry's YouTube Channel](https://www.youtube.com/@CodeWithHarry)
+- [Node.js Official Website](https://nodejs.org/) 
