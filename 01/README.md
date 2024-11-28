@@ -13,7 +13,6 @@ This repository provides a comprehensive guide to setting up **Tailwind CSS** fo
   - [Installing Vite](#installing-vite)
   - [Configuring Tailwind CSS](#configuring-tailwind-css)
 - [Additional Tools](#additional-tools)
-- [Credits](#credits)
 - [References](#references)
 
 ---
