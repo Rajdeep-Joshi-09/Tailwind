@@ -3,50 +3,64 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Margin and Padding in Tailwind CSS</title>
+    <title>Tailwind CSS: Margins, Padding, and Borders</title>
     <link rel="stylesheet" href="main.css" />
   </head>
-  <body class="bg-gray-100 p-8">
-    <h1 class="text-4xl font-bold text-center mb-8">
-      Margin and Padding in Tailwind CSS
+  <body class="p-4">
+    <h1 class="text-2xl font-bold text-center mb-6">
+      Tailwind CSS: Margins, Padding, and Borders
     </h1>
 
-    <div class="space-y-8">
-      <!-- Margin -->
-      <section>
-        <h2 class="text-2xl font-semibold mb-4">Margin Classes</h2>
-        <div class="bg-blue-100 p-4">
-          <div class="bg-blue-500 text-white text-center m-0">Margin 0</div>
+    <!-- Margin Examples -->
+    <section class="mb-8">
+      <h2 class="text-xl font-semibold mb-4">Margin Examples</h2>
+      <div class="border p-2 mb-4">
+        <p class="mb-4">
+          This box has a <span class="font-bold">margin-bottom</span> of
+          <code>4</code>.
+        </p>
+        <div class="bg-blue-200 p-4 m-4">
+          Margin All Sides: <code>m-4</code>
         </div>
-        <div class="bg-green-100 p-4">
-          <div class="bg-green-500 text-white text-center m-4">Margin 4</div>
-        </div>
-        <div class="bg-red-100 p-4">
-          <div class="bg-red-500 text-white text-center mt-8">Margin Top 8</div>
-        </div>
-        <div class="bg-yellow-100 p-4">
-          <div class="bg-yellow-500 text-white text-center ml-16">
-            Margin Left 16
-          </div>
-        </div>
-        <div class="bg-purple-100 p-4">
-          <div class="bg-purple-500 text-white text-center mx-auto w-48">
-            Margin X Auto (Center)
-          </div>
-        </div>
-      </section>
+        <div class="bg-blue-300 p-4 ml-8">Margin Left: <code>ml-8</code></div>
+        <div class="bg-blue-400 p-4 mt-2">Margin Top: <code>mt-2</code></div>
+      </div>
+    </section>
 
-      <!-- Padding -->
-      <section>
-        <h2 class="text-2xl font-semibold mb-4">Padding Classes</h2>
-        <div class="bg-blue-500 text-white text-center p-0">Padding 0</div>
-        <div class="bg-green-500 text-white text-center p-4">Padding 4</div>
-        <div class="bg-red-500 text-white text-center pt-8">Padding Top 8</div>
-        <div class="bg-yellow-500 text-white text-center pl-16">
-          Padding Left 16
+    <!-- Padding Examples -->
+    <section class="mb-8">
+      <h2 class="text-xl font-semibold mb-4">Padding Examples</h2>
+      <div class="border p-2">
+        <p class="mb-4">
+          This box demonstrates <span class="font-bold">padding</span>.
+        </p>
+        <div class="bg-green-200 p-4">Padding All Sides: <code>p-4</code></div>
+        <div class="bg-green-300 px-6 py-2 mt-4">
+          Padding X & Y: <code>px-6 py-2</code>
         </div>
-        <div class="bg-purple-500 text-white text-center px-4">Padding X 4</div>
-      </section>
-    </div>
+        <div class="bg-green-400 pt-8 pb-2 mt-4">
+          Padding Top & Bottom: <code>pt-8 pb-2</code>
+        </div>
+      </div>
+    </section>
+
+    <!-- Border Examples -->
+    <section>
+      <h2 class="text-xl font-semibold mb-4">Border Examples</h2>
+      <div class="border p-2">
+        <p class="mb-4">
+          This box showcases <span class="font-bold">border</span> properties.
+        </p>
+        <div class="border-2 border-red-500 p-4 mb-4">
+          Border Size & Color: <code>border-2 border-red-500</code>
+        </div>
+        <div class="border-dashed border-4 border-blue-500 p-4 mb-4">
+          Dashed Border: <code>border-dashed border-4</code>
+        </div>
+        <div class="rounded-lg border-2 border-gray-400 p-4">
+          Rounded Corners: <code>rounded-lg</code>
+        </div>
+      </div>
+    </section>
   </body>
 </html>
