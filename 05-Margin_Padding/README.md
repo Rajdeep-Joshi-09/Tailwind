@@ -1,6 +1,3 @@
-### Regenerated README: Margins, Padding, and Borders in Tailwind CSS
-
-````markdown
 # Tailwind CSS: Margins, Padding, and Borders
 
 This README provides an overview of how to use **margin**, **padding**, and **border** utility classes in Tailwind CSS to style HTML elements effectively.
@@ -85,7 +82,6 @@ Tailwind provides utility classes to customize borders for any element.
 <div class="mt-2">Margin Top Only</div>
 <div class="mx-8">Horizontal Margin</div>
 ```
-````
 
 ### Padding
 
