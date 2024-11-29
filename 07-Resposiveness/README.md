@@ -28,7 +28,7 @@ You can apply classes at specific breakpoints using the `sm:`, `md:`, `lg:`, and
    <div class="bg-red-500">This will be red on small screens.</div>
    ```
 
-````
+
 
 2. **Small Screens (`sm`)**:
 
@@ -89,4 +89,4 @@ Here’s how you can combine multiple breakpoints for a single element:
 
 
 
-````
+
