@@ -89,6 +89,3 @@ Square bracket notation can be combined with existing Tailwind utility classes f
 
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 
-```
-
-```
