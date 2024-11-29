@@ -77,7 +77,7 @@ Tailwind CSS is a utility-first CSS framework that provides pre-built utility cl
 3. **Generate Tailwind Configuration Files:**
 
    ```bash
-   npx tailwindcss init
+   npx tailwindcss init -p
    ```
 
    This generates two files:
