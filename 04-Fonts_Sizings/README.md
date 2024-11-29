@@ -112,6 +112,6 @@ module.exports = {
 
 ## References and Resources
 
-- [Tailwind CSS Typography Utilities](https://tailwindcss.com/docs/typography)
+- [Tailwind CSS Typography Utilities](https://tailwindcss.com/docs/font-family)
 - [Tailwind CSS Official Documentation](https://tailwindcss.com/)
 - [Node.js Official Website](https://nodejs.org/)
