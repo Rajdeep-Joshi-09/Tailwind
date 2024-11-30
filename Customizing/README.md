@@ -1,12 +1,11 @@
-markdown
-Copy code
 
 # Customizing the Tailwind CSS Configuration File
 
 The `tailwind.config.js` file allows you to tailor Tailwind CSS to fit your project's specific design requirements. By using the command:
 
-````bash
+```bash
 npx tailwindcss init demo --full
+```
 
 You generate a fully populated configuration file (`demo.js`) with all the default settings. This file provides a comprehensive starting point for customization.
 
@@ -36,7 +35,7 @@ fontSize: {
   '8xl': ['6rem', { lineHeight: '1' }],
   '9xl': ['8rem', { lineHeight: '1' }],
 },
-````
+```
 
 ### Customizing the `fontSize`
 
